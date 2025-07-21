@@ -53,7 +53,7 @@ export default function Home() {
         </div>
         <div className="flex justify-center">
           Jinicoによってどれだけのサーバー代金が説焼きできるかを示すページ<br/>
-          (AWS(Amazon Web Services)とGCP(Google Cloud Platform)<br/>
+          (AWS(Amazon Web Services)とGCP(Google Cloud Platform)から計算)<br/>
         </div>
         <div className="flex text-xl justify-center">
           「Jinico」の使用技術
